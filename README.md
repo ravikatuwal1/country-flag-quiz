@@ -1,0 +1,1 @@
+flags.csv file is added to this project which contains the countries name and their respective flags, however, the flags are visible only in firefox, and rest browser like Google Chrom displays the two letter code for the flags.
